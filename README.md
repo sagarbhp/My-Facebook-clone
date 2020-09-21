@@ -1,4 +1,5 @@
-
+This app is my take on facebook. It is developed using React.js and include features such as Google Authentication/ Real Time data base interaction/ React Context API / mobile device support and more. View the complete website at https://facebook-clone-aea04.web.app/ 
+Over time i'll be adding more features.  
 
 
 
